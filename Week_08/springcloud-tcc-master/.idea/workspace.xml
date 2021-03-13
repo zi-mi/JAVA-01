@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdc9ddde-b6c6-4ba0-8517-23a5c5a9c6eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pht8IGQP0lZJcIaCEiN1bhsVuT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in springcloud-tcc-master">
+    <configuration name="All in springcloud-tcc-master" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-tcc-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bank1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bank1.Bank1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bank2.Bank2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in springcloud-tcc-master" />
+        <item itemvalue="Spring Boot.Bank2Application" />
+        <item itemvalue="Spring Boot.Bank1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc9ddde-b6c6-4ba0-8517-23a5c5a9c6eb" name="Default Changelist" comment="" />
+      <created>1615646988776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615646988776</updated>
+      <workItem from="1615646996129" duration="60000" />
+      <workItem from="1615647080653" duration="1709000" />
+      <workItem from="1615678138291" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615647021964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615647021964" />
+    <state width="1493" height="305" key="GridCell.Tab.0.bottom" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state width="1493" height="305" key="GridCell.Tab.0.center" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state width="1493" height="305" key="GridCell.Tab.0.left" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state width="1493" height="305" key="GridCell.Tab.0.right" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state width="1493" height="305" key="GridCell.Tab.1.bottom" timestamp="1615648793061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615648793061" />
+    <state width="1493" height="305" key="GridCell.Tab.1.center" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state width="1493" height="305" key="GridCell.Tab.1.left" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state width="1493" height="305" key="GridCell.Tab.1.right" timestamp="1615648793060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="305" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615648793060" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1615678143173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1615678143173" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1615647100206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615647100206" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615648781031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615648781031" />
+  </component>
+</project>
